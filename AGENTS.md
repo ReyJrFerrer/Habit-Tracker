@@ -734,18 +734,6 @@ npm install problematic-package
 - Simple streak calculation
 - Glass morphism UI
 
-### Phase 2: Enhanced Features
-- Habit templates library
-- Social accountability features
-- Integration with health apps (Apple Health, Google Fit)
-- Analytics dashboard
-
-### Phase 3: Native Apps
-- Capacitor mobile app (iOS/Android)
-- Tauri desktop app (lightweight alternative to Electron)
-- Offline-first synchronization
-- Native notifications
-
 ## Version History
 
 - **v1.0.0** (2026-02-22): Initial AGENTS.md creation
